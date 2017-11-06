@@ -18,7 +18,8 @@ html {
 }
 
 body {
-	background: $white;
+	  background: url("../images/bg1_grey.jpg") no-repeat center center;
+  background-size: cover;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -157,8 +158,6 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-  background: url("../images/bg1_grey.jpg") no-repeat center center;
-  background-size: cover;
 
   @include mobile {
     text-align: center;
