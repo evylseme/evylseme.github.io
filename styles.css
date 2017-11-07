@@ -1,0 +1,18 @@
+---
+---
+
+//
+//	IMPORT
+//
+
+@import "variables";
+// Syntax highlighting @import is at the bottom of this file
+
+/**************/
+/* BASE RULES */
+/**************/
+
+.bg {
+  background: url("../images/bg1_grey_cropped.jpg") no-repeat center 500xp;
+  background-size: cover;
+}
