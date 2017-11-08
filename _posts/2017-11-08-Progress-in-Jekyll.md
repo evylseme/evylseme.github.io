@@ -17,4 +17,4 @@ http://www.adandypunk.com/ego
 
 I love the idea of having it slightly different from a normal looking blog. This website surely shows something special. And then it hit me! The original idea for my portfolio website is that I wanted it to represent me. So who better to show than one version of me (hence the background). I chose this image because when I see that image I feel a little more empowered, a little more confidence about myself. Not to mention the mask makes it more mysterious as well. So I changed the image to fit as a background (I want it there, but it should not be the main attraction). From there I made a design in photoshop and started to implement it: 
 
-![My helpful screenshot]({{ "/assets/portfolio/screenshot_PortfolioDesign.jpg" | absolute_url }})
+![My helpful screenshot]({{ "\assets\portfolio\screenshot_PortfolioDesign.jpg" | absolute_url }})
