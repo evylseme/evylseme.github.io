@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: my_post
 title: Hello Jekyll
 date:   2017-11-07 11:34:44 +1300
 categories: jekyllProjects

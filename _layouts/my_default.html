@@ -5,18 +5,50 @@
 
     {% include meta.html %}
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
+    <div class="header_layout">
+      <header>
+        <div class="header_text_layout">
+          <h1>
+            <a class="site-name"href="{{ site.baseurl }}/">
+              {{ site.name }}</a></h1>
+        
 
+        <div class="navigation">
+
+          <div class="dropdown">
+            <span>Projects</span>
+            <div class="dropdown-content">
+              <a href="#">UI kit</a>
+              <a href="#">Soundscape</a>
+              <a href="#">Lifehack video</a>
+              <a href="#">3D model</a>
+              <a href="#">Interactivity</a>
+            </div>
+          </div>
+
+          <div class="dropdown">
+            <span>About me</span>
+            <div class="dropdown-content">
+              <a href="#">About me</a>
+              <a href="#">CV</a>
+              <a href="#">Cosplay</a>
+            </div>
+          </div>
+
+        </div>
+      </header>
+    </div>
+    <div class="main_layout">
+      <div class="main_page_layout">
+        {{ content }}
+      </div>
+    </div>
     
   </body>
 </html>
