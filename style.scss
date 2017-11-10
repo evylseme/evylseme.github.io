@@ -11,8 +11,6 @@
 
 img[alt=screenshot] { width: 100%; }
 
-// source: https://gist.github.com/roachhd/779fa77e9b90fe945b0c
-
 h2, h3, h4, h5, h6 {
   font-weight: bold;
 
@@ -76,6 +74,8 @@ ul ul, ol ul {
 
   padding: 30px 0;
   cursor: pointer;
+
+  border-bottom: 1px solid #a5a5a5;
 }
 
 .header_text_layout {
@@ -87,6 +87,7 @@ ul ul, ol ul {
 }
 
 .site-name {
+  padding: 9px 0px;
   float: left;
   text-decoration: none;
   font-size: 30px;
@@ -99,6 +100,8 @@ ul ul, ol ul {
   } 
 }
 
+// navigation
+
 .navigation {
   font-size: 20px;
   color: $textLight;
@@ -106,9 +109,9 @@ ul ul, ol ul {
 }
 
 .dropdown {
-    padding: 0px 10px;
+    float: left;
+    padding: 9px 10px;
     position: relative;
-    display: inline-block;
 }
 
 .dropdown-content {
@@ -116,8 +119,6 @@ ul ul, ol ul {
     position: absolute;
     background-color: #f9f9f9;
     min-width: 160px;
-    //0px rgba(0,0,0,0.2);
-    //padding: 5px 8px;
     z-index: 99;
 }
 
@@ -135,6 +136,12 @@ color: $white;
 
 .dropdown:hover .dropdown-content {
     display: block;
+}
+
+// icon website links
+
+.icons_links {
+  padding: 0px 70%;
 }
 
 ///

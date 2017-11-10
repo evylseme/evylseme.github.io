@@ -28,7 +28,7 @@
               <a href="{% post_url 2017-11-10-UI-kit %}">UI kit</a>
               <a href="{% post_url 2017-11-10-Soundscape%}">Soundscape</a>
               <a href="#">Lifehack video</a>
-              <a href="#">3D model</a>
+              <a href="{% post_url 2017-11-10-3D-model%}">3D model</a>
               <a href="#">Interactivity</a>
             </div>
           </div>
@@ -36,13 +36,17 @@
           <div class="dropdown">
             <span>About</span>
             <div class="dropdown-content">
-              <a href="{{ site.baseurl }}/about">Who am I?</a>
+              <a href="{{ site.baseurl }}/about">About</a>
               <a href="#">CV</a>
             </div>
           </div>
 
         </div>
       </header>
+
+      <div class="icons_links">
+        {% include svg-icons.html %}
+      </div>
     </div>
     <div class="main_layout">
       <div class="main_page_layout">
