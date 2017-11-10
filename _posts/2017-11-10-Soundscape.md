@@ -9,7 +9,7 @@ The assignment is about making a soundscape inspired by the following image:
 
 ![screenshot]({{site.url}}\assets\soundscape\screenshots\pirate-town-and-pirate-ship.jpg)
 
-##Research
+## Research
 
 To execute this assignment I wish to build a soundscape which creates a scene in the area which the former image describes. 
 
@@ -25,17 +25,17 @@ This figure is a sketch to get an idea of what the soundscape is going to sound 
 
 During this assignment the tool Audacity shall be used, because it’s easy to understand with plenty of functions. Also, I have previous experience with this tool. 
 
-##Execution
+## Execution
 
-![screenshot]({{site.url}}\assets\soundscape\screenshots\Screenshot.jpg)
+![screenshot]({{site.url}}\assets\soundscape\screenshots\Screenshot.png)
 
 Through Google I landed on the website FreeSound.org. This website has heaps of sounds free for downloading and this is where I got all sounds, but 1. The music coming from the tavern, I decided to go with the song Two Hornpipes (Tortuga) from Pirates of the Carribbean. 
 
-##Result
+## Result
 
 //TODO: enter soundscape here
 
-##Sources
+## Sources
 
 * [YouTube](https://www.youtube.com/watch?v=4WCdeltSsyM)
 * [FreeSound.org](http://freesound.org/)
