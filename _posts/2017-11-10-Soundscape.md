@@ -33,7 +33,10 @@ Through Google I landed on the website FreeSound.org. This website has heaps of 
 
 ## Result
 
-//TODO: enter soundscape here
+<audio controls>
+  <source src="{{site.url}}\assets\soundscape\HarborSoundscapeProject.mp3" type="audio/mpeg">
+Your browser does not support the audio element, please don't use IE.
+</audio>
 
 ## Sources
 
