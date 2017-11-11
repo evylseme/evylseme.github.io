@@ -105,12 +105,12 @@ ul ul, ol ul {
 .navigation {
   font-size: 20px;
   color: $textLight;
-  margin: 0px 35%; 
+  margin-left: 35%; 
 }
 
 .dropdown {
     float: left;
-    padding: 9px 10px;
+    margin: 9px 4%;
     position: relative;
 }
 
@@ -141,7 +141,7 @@ color: $white;
 // icon website links
 
 .icons_links {
-  padding: 0px 70%;
+  margin-left: 70%;
 }
 
 ///
