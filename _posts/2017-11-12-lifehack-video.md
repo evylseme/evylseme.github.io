@@ -99,9 +99,11 @@ As it turns out, windows saved the files in .mp4 files, but DaVinci can not hand
 ## Result
 
 <video controls>
-  <source src="{{site.url}}\assets\lifehack\lifehack_wintertime.mp4" type="video/mp4">
+  <source src="http://dw.convertfiles.com/files/0879245001510565834/lifehack_wintertime.mp4">
   Your browser does not support HTML5 video.
 </video>
+
+..."site.url\assets\lifehack\lifehack_wintertime.mp4" type="video/mp4"
 
 So I wish I had done this with better quality sound and video. Also, after reviewing the end result it might seem kind of rushed, so if I got a second chance I would retake a few shots to get more time inbetween the shots in the resulting video.
 
