@@ -29,3 +29,4 @@ I love the idea of having it slightly different from a normal looking blog. This
 
 ![screenshot]({{site.url}}\assets\portfolio\screenshot_PortfolioDesign.jpg)
 
+<br>
