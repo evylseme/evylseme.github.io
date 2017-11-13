@@ -57,13 +57,13 @@ So I just wrote down what I "could" say during the video. It means, I am allowin
 + I’m a student from the Netherlands and I studied abroad in New Zealand from July till November. When I got on the plane we just experienced a heatwave. When I got off, it was nearing the 0 degrees. That is a huge difference going from summer to winter! 
 + Now here’s the issue. I expected at the very least when I got home it would be nice and warm inside… I was wrong. 
 
-![screenshot]({{site.url}}\assets\lifehack\screenshots\storyboard_1.jpg)
+![screenshot]({{site.url}}\assets\lifehack\screenshots\storyboard_1.JPG)
 
 **part two: problem**
 
 + If you are ready to travel to NZ, going from Summer to winter as I did. You know to bring winter clothing. Good! It’s a start, but it won’t make the house you are most likely staying in any warmer. If you want to survive in winter time in NZ, there are a few ways that are also energy saving.
 
-![screenshot]({{site.url}}\assets\lifehack\screenshots\storyboard_1.jpg)
+![screenshot]({{site.url}}\assets\lifehack\screenshots\storyboard_1.JPG)
 
 **part three: solution**
 
@@ -72,7 +72,7 @@ So I just wrote down what I "could" say during the video. It means, I am allowin
 + Three! Thermo clothing, very handy! Keep your natural body heat in and most of the cold out.
 + Four! Spend your time elsewhere! I spend most of my time at school. This way, you don’t have to pay for electricity, or keep yourself busy in the gym for example. 
 
-![screenshot]({{site.url}}\assets\lifehack\screenshots\storyboard_2.jpg)
+![screenshot]({{site.url}}\assets\lifehack\screenshots\storyboard_2.JPG)
 
 **part 4: outro**
 
@@ -92,7 +92,7 @@ And when I was done shooting I made the pictures I am planning to show of the it
 
 And so everything is gathered and I can get to work! 
 
-![screenshot]({{site.url}}\assets\lifehack\screenshots\screenshot_1.jpg)
+![screenshot]({{site.url}}\assets\lifehack\screenshots\screenshot_1.JPG)
 
 As it turns out, windows saved the files in .mp4 files, but DaVinci can not handle these files. All I had was a muted video now! After some research I decided to take the audio from the .mp4 files with windows movie maker. Then I could take out some of the noise with Audacity. I have to say after working with the sound and with the video, I noticed that my laptop has terrible quality (both sound and video). But I worked with it eitherway and here is the result!
 
