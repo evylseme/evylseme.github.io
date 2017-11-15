@@ -75,7 +75,7 @@ Now to make it easier on coding later I gathered all possible actions per charac
 
 ## Design
 
-Since I’m working with old fashioned fairy tales and musicals, what better than to make the environment looking like a theatre. It’ll instantly show it’s about a story. Having a theatre with the red curtains and wooden stage, also means the décor will look like carton that is painted on. Other than that, the characters will be 3D, because what’s a theatre without actors. 
+Since I’m working with old fashioned fairy tales and musicals, what better than to make the environment looking like a theatre. It’ll instantly show it’s about a story. Having a theatre with the red curtains and wooden stage, also means the décor will look like carton that is painted on. Other than that, the characters will be 3D, because what’s a theatre without actors. However the original idea was to build the characters as well as 2D art works, and the animation would be minimal. It would be like reading a coming, one second the characters are posing as if they want to sit, the other they are posing as if they want to laugh (for example). This way I would putting more elements of old fashion in my little game. But I do not have an artist at my disposal who can build the 3 characters in the few poses I need from the right angles. 
 
 ![screenshot]({{site.url}}\assets\interactivity\screenshots\design_theatre.jpg)
 
@@ -93,10 +93,29 @@ Assets can be found for free at [Unity asset store](https://www.assetstore.unity
 
 ## Execution
 
-Coming soon!
+During the execution I was happy to have some knowledge of how to build the environment in Unity. So the temporary base was quickly done. I say temporary because this is not as designed, it's simply a first draft to get the first parts to work. 
+
+![screenshot]({{site.url}}\assets\interactivity\screenshots\screenshot_halfway.jpg)
+
+The first challange came with the assets (dragon, knight and support). The knight was easy. Found in the Unity Asset store. It came with a nice look and was therefore good enough. The supporter was a bit more difficult and was found on the free3d website. The textures came with it, but it didn't fully work. Half her body is not colored. Unfortunately there is no time to fix that. Last, the dragon was found also on the free3d website, and thank god the texture worked. This was also the only character that included animation! Which made that part slightly easier. Trying to animate characters like that on your own is quite the pain I learned! And I'm grasping at a too high level with that idea. 
+I did look into easier ways to animate and a friend suggested: [Mixamo](https://www.mixamo.com/). But as that turned out, it didn't work either. It either didn't load in the dragon or it turned the knight upside down.
+
+So if I can't do that yet, then let's look at the requirements: 
++ something animated 
++ something interective for the user
++ something that produces sound 
++ the tutorial
+
+Well for now I can put all in the tutorial. Plus the tutorial is the introduction of the game. I wanted it to sound a bit story/theatre like.
+
+![screenshot]({{site.url}}\assets\interactivity\screenshots\tutorial_build.jpg)
+
+So: 
+
+"Ladies and gentlemen! I present to you, the first draft of the game!"
 
 ## Result
 
-Coming soon!
+[Click here to see the game]({{site.url}}\assets\interactivity\releaseBuild\index.html)
 
 <br>

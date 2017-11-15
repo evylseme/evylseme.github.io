@@ -99,7 +99,7 @@ As it turns out, windows saved the files in .mp4 files, but DaVinci can not hand
 ## Result
 
 <video controls>
-  <source src="http://dw.convertfiles.com/files/0879245001510565834/lifehack_wintertime.mp4">
+  <source src="https://evylseme.github.io/assets/lifehack/lifehack_wintertime.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
 

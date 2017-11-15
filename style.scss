@@ -97,7 +97,7 @@ ul ul, ol ul {
     color: $textLight;
   }
   &:hover, &:active {
-    color: $white;
+    color: #FFFF70;
   } 
 }
 
@@ -113,6 +113,9 @@ ul ul, ol ul {
     float: left;
     margin: 9px 4%;
     position: relative;
+    :hover {
+      color: #FFFF70;
+    }
 }
 
 .dropdown-content {
