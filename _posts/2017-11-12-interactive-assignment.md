@@ -1,7 +1,7 @@
 ---
 layout: my_post
 title: Interactive assignment
-date:   2017-11-12 18:40:38 +1300
+date:   2017-11-16 01:40:38 +1300
 categories: projects
 ---
 
@@ -67,7 +67,7 @@ The next images show the choices a user can make and what the result would be!!!
 
 ![screenshot]({{site.url}}\assets\interactivity\screenshots\storyline_SupportFirst.jpg)
 
-  <br>
+<br>
 
 Now to make it easier on coding later I gathered all possible actions per character: 
 
@@ -116,6 +116,15 @@ So:
 
 ## Result
 
+So, as it turns out, I'm absolutely angry and dissapointed in Unity and WebGL. If you entered the game (see link below), it is not at all as I wanted it and as Unity showed it to me in the preview. The text is all wrong and the screen seems stretched. And I have zero time left to fix it all!
+
 [Click here to see the game]({{site.url}}\assets\interactivity\releaseBuild\index.html)
+
+So to show what it actually was suppose to look: 
+
+<video controls>
+  <source src="https://evylseme.github.io/assets/interactivity/Tutorial_as_shouldbe.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
 
 <br>

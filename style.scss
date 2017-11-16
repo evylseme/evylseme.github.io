@@ -97,7 +97,7 @@ ul ul, ol ul {
     color: $textLight;
   }
   &:hover, &:active {
-    color: #FFFF70;
+    text-shadow:5px 5px 10px #000;
   } 
 }
 
@@ -114,7 +114,7 @@ ul ul, ol ul {
     margin: 9px 4%;
     position: relative;
     :hover {
-      color: #FFFF70;
+      text-shadow:5px 5px 10px #000;
     }
 }
 
