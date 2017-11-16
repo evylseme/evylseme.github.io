@@ -80,7 +80,7 @@ So I just wrote down what I "could" say during the video. It means, I am allowin
 + I hope you are prepared now if you are planning to go!
 + Good luck and have fun!
 
-![screenshot]({{site.url}}\assets\lifehack\screenshots\storyboard_1.jpg)
+![screenshot]({{site.url}}\assets\lifehack\screenshots\storyboard_1.JPG)
 
 Source: [storyboard making online](http://www.storyboardthat.com/)
 
@@ -102,8 +102,6 @@ As it turns out, windows saved the files in .mp4 files, but DaVinci can not hand
   <source src="https://evylseme.github.io/assets/lifehack/lifehack_wintertime.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
-
-..."site.url\assets\lifehack\lifehack_wintertime.mp4" type="video/mp4"
 
 So I wish I had done this with better quality sound and video. Also, after reviewing the end result it might seem kind of rushed, so if I got a second chance I would retake a few shots to get more time inbetween the shots in the resulting video.
 
